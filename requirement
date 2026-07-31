@@ -1,0 +1,16 @@
+ This project uses ONLY Python built-in libraries.
+No pip install needed!
+
+ Just run: python gravity_paint.py
+
+ Built-in dependencies (no install required):
+- tkinter   (GUI framework — comes with Python)
+ - math      (math functions — comes with Python)
+ - random    (random numbers — comes with Python)
+
+ Required Python version
+python>=3.6
+
+ Optional (for future enhancements):
+ Pillow>=10.0.0      # If you want to export screenshots as PNG
+ numpy>=1.24.0        # If you want faster physics calculations
