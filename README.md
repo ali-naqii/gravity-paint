@@ -197,6 +197,7 @@ Built with Python and tkinter
 Inspired by orbital mechanics and generative art
 Physics based on Newton's Law of Universal Gravitation
 <div align="center">
+  ..
 Made with ❤️ and physics
 
 Every session creates a unique masterpiece.
