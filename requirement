@@ -14,3 +14,4 @@ python>=3.6
  Optional (for future enhancements):
  Pillow>=10.0.0      # If you want to export screenshots as PNG
  numpy>=1.24.0        # If you want faster physics calculations
+..
